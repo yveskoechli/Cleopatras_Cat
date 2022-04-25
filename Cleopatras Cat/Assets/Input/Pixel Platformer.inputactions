@@ -27,7 +27,7 @@
                     "name": "SpeedUp",
                     "type": "Value",
                     "id": "4885e0e3-d08c-4f03-bbf1-f169747bc803",
-                    "expectedControlType": "Button",
+                    "expectedControlType": "",
                     "processors": "",
                     "interactions": "",
                     "initialStateCheck": true
@@ -131,11 +131,33 @@
                 },
                 {
                     "name": "",
+                    "id": "102f193c-b1c2-4c0b-ae49-9fe29f34d826",
+                    "path": "<Gamepad>/buttonSouth",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Gamepad",
+                    "action": "Jump",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
                     "id": "23ae1f63-9527-48b1-98b1-81b4d130e613",
                     "path": "<Keyboard>/shift",
                     "interactions": "",
                     "processors": "",
                     "groups": "Keyboard&Mouse",
+                    "action": "SpeedUp",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "888425f6-3e37-4411-9be1-b4e44e139b16",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Gamepad",
                     "action": "SpeedUp",
                     "isComposite": false,
                     "isPartOfComposite": false
