@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95e66c6366d904e98bc83428217d4fd7, type: 3}
+  m_Name: Game_Manager_Events
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"graph":{"variables":{"collection":{"$content":[],"$version":"A"},"$version":"A"},"controlInputDefinitions":[],"controlOutputDefinitions":[],"valueInputDefinitions":[],"valueOutputDefinitions":[],"title":null,"summary":null,"pan":{"x":21.94141,"y":18.27616},"zoom":1.0,"elements":[{"argumentCount":1,"coroutine":false,"defaultValues":{"target":null,"name":{"$content":"AddRune","$type":"System.String"}},"position":{"x":-358.0,"y":-68.0},"guid":"4734d60c-dc40-4c67-b420-ec8cd861c1e7","$version":"A","$type":"Unity.VisualScripting.CustomEvent","$id":"9"},{"inputCount":2,"defaultValues":{},"position":{"x":-78.0,"y":37.0},"guid":"9bde79f2-4d6f-4acd-9c46-cb389a0b1dee","$version":"A","$type":"Unity.VisualScripting.GenericSum","$id":"11"},{"kind":"Scene","defaultValues":{"name":{"$content":"Runes","$type":"System.String"}},"position":{"x":134.0,"y":-67.0},"guid":"48ea27fe-80d4-4d23-96db-91a9e927f9ad","$version":"A","$type":"Unity.VisualScripting.SetVariable","$id":"13"},{"specifyFallback":false,"kind":"Scene","defaultValues":{"name":{"$content":"Runes","$type":"System.String"}},"position":{"x":-324.0,"y":96.0},"guid":"a5e7ab44-853f-4f20-8b38-a0c1e2ea116e","$version":"A","$type":"Unity.VisualScripting.GetVariable","$id":"15"},{"sourceUnit":{"$ref":"9"},"sourceKey":"trigger","destinationUnit":{"$ref":"13"},"destinationKey":"assign","guid":"0d200d0e-25f6-412e-99a5-9d966b8d6d0a","$type":"Unity.VisualScripting.ControlConnection"},{"sourceUnit":{"$ref":"9"},"sourceKey":"argument_0","destinationUnit":{"$ref":"11"},"destinationKey":"0","guid":"12ffd637-573b-4b8c-a5e9-f9dc5ec2e76e","$type":"Unity.VisualScripting.ValueConnection"},{"sourceUnit":{"$ref":"11"},"sourceKey":"sum","destinationUnit":{"$ref":"13"},"destinationKey":"input","guid":"ee38368e-2b50-4b21-98da-8cef36b79668","$type":"Unity.VisualScripting.ValueConnection"},{"sourceUnit":{"$ref":"15"},"sourceKey":"value","destinationUnit":{"$ref":"11"},"destinationKey":"1","guid":"fe64f276-1aea-462b-af2a-7998429a9564","$type":"Unity.VisualScripting.ValueConnection"},{"position":{"xMin":-404.0,"yMin":-169.0,"xMax":716.0,"yMax":262.0},"label":"Add
+      Runes","comment":null,"color":{"r":0.0,"g":0.0,"b":0.0,"a":1.0},"guid":"dda8e251-a59f-499a-8cba-8b6c6b6b2ec8","$version":"A","$type":"Unity.VisualScripting.GraphGroup"}],"$version":"A"}}'
+    _objectReferences: []
