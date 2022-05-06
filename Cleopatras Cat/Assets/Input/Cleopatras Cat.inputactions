@@ -51,7 +51,7 @@
                     "initialStateCheck": true
                 },
                 {
-                    "name": "Move_F",
+                    "name": "Move_Left",
                     "type": "Value",
                     "id": "488dcc0a-9bb3-4b5c-8cba-c03cfe6d3c6e",
                     "expectedControlType": "Button",
@@ -60,7 +60,7 @@
                     "initialStateCheck": true
                 },
                 {
-                    "name": "Move_H",
+                    "name": "Move_Right",
                     "type": "Value",
                     "id": "0ad65f88-a6de-424b-b25a-6372b6ad5519",
                     "expectedControlType": "Button",
@@ -80,61 +80,6 @@
                     "action": "Move",
                     "isComposite": false,
                     "isPartOfComposite": false
-                },
-                {
-                    "name": "Horizontal",
-                    "id": "00ca640b-d935-4593-8157-c05846ea39b3",
-                    "path": "1DAxis",
-                    "interactions": "",
-                    "processors": "",
-                    "groups": "",
-                    "action": "Move",
-                    "isComposite": true,
-                    "isPartOfComposite": false
-                },
-                {
-                    "name": "Negative",
-                    "id": "d2581a9b-1d11-4566-b27d-b92aff5fabbc",
-                    "path": "<Keyboard>/a",
-                    "interactions": "",
-                    "processors": "",
-                    "groups": ";Keyboard&Mouse",
-                    "action": "Move",
-                    "isComposite": false,
-                    "isPartOfComposite": true
-                },
-                {
-                    "name": "Negative",
-                    "id": "1a2a063f-8a7d-4b71-8342-aabd6901e4bc",
-                    "path": "<Keyboard>/leftArrow",
-                    "interactions": "",
-                    "processors": "",
-                    "groups": "Keyboard&Mouse",
-                    "action": "Move",
-                    "isComposite": false,
-                    "isPartOfComposite": true
-                },
-                {
-                    "name": "positive",
-                    "id": "2e46982e-44cc-431b-9f0b-c11910bf467a",
-                    "path": "<Keyboard>/d",
-                    "interactions": "",
-                    "processors": "",
-                    "groups": ";Keyboard&Mouse",
-                    "action": "Move",
-                    "isComposite": false,
-                    "isPartOfComposite": true
-                },
-                {
-                    "name": "positive",
-                    "id": "70dcec9e-e6c4-4541-8f3f-7dd92e7aeeb7",
-                    "path": "<Keyboard>/rightArrow",
-                    "interactions": "",
-                    "processors": "",
-                    "groups": "Keyboard&Mouse",
-                    "action": "Move",
-                    "isComposite": false,
-                    "isPartOfComposite": true
                 },
                 {
                     "name": "",
@@ -205,22 +150,22 @@
                 {
                     "name": "",
                     "id": "2858dc38-38e6-4485-b53c-44b3df78e442",
-                    "path": "<Keyboard>/f",
+                    "path": "<Keyboard>/a",
                     "interactions": "",
                     "processors": "",
                     "groups": "Keyboard&Mouse",
-                    "action": "Move_F",
+                    "action": "Move_Left",
                     "isComposite": false,
                     "isPartOfComposite": false
                 },
                 {
                     "name": "",
                     "id": "86f889a4-e18b-4694-a87f-cfd04a2df2d0",
-                    "path": "<Keyboard>/h",
+                    "path": "<Keyboard>/d",
                     "interactions": "",
                     "processors": "",
                     "groups": "Keyboard&Mouse",
-                    "action": "Move_H",
+                    "action": "Move_Right",
                     "isComposite": false,
                     "isPartOfComposite": false
                 }

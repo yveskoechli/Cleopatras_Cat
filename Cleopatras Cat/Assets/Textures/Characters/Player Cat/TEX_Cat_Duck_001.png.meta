@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 4e8a5124f35c7cc4f9c2160487b7da32
+guid: 5e50f2c44b5578341bb79b6db28e40f0
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -104,7 +104,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: TEX_Cat_LedgeCrouch_0
+      name: TEX_Cat_Duck_001_0
       rect:
         serializedVersion: 2
         x: 0
@@ -118,14 +118,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4936c05a598d9d3429a0fc0b0ff03fa5
-      internalID: -1322128653
+      spriteID: 0eec4e337be0f4d46bcae5dab664a682
+      internalID: 302265554
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TEX_Cat_LedgeCrouch_1
+      name: TEX_Cat_Duck_001_1
       rect:
         serializedVersion: 2
         x: 64
@@ -139,14 +139,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 07296bc67d3829c4fb0397dc81dd8de4
-      internalID: 1351196716
+      spriteID: 35771ccb6ac3670428e77773ccac03a6
+      internalID: -2017070561
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TEX_Cat_LedgeCrouch_2
+      name: TEX_Cat_Duck_001_2
       rect:
         serializedVersion: 2
         x: 128
@@ -160,71 +160,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3b42fbf0a4b1da14d85ca134b0a230bb
-      internalID: 948689839
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TEX_Cat_LedgeCrouch_3
-      rect:
-        serializedVersion: 2
-        x: 192
-        y: 0
-        width: 64
-        height: 64
-      alignment: 9
-      pivot: {x: 0.5, y: 0.25}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3d253928601e3c24f9582c1102d77a5b
-      internalID: -371498790
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TEX_Cat_LedgeCrouch_4
-      rect:
-        serializedVersion: 2
-        x: 256
-        y: 0
-        width: 64
-        height: 64
-      alignment: 9
-      pivot: {x: 0.5, y: 0.25}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: dc07263059b83bb4194968366dbb84af
-      internalID: 1958032239
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TEX_Cat_LedgeCrouch_5
-      rect:
-        serializedVersion: 2
-        x: 320
-        y: 0
-        width: 64
-        height: 64
-      alignment: 9
-      pivot: {x: 0.5, y: 0.25}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5671fb0e9dd045445a298bd2e18f87ac
-      internalID: 315933447
+      spriteID: a82294a6a5eddcf45a52791dc706600a
+      internalID: 647173573
       vertices: []
       indices: 
       edges: []
@@ -240,12 +177,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      TEX_Cat_LedgeCrouch_3: -371498790
-      TEX_Cat_LedgeCrouch_4: 1958032239
-      TEX_Cat_LedgeCrouch_5: 315933447
-      TEX_Cat_LedgeCrouch_0: -1322128653
-      TEX_Cat_LedgeCrouch_2: 948689839
-      TEX_Cat_LedgeCrouch_1: 1351196716
+      TEX_Cat_Duck_001_0: 302265554
+      TEX_Cat_Duck_001_1: -2017070561
+      TEX_Cat_Duck_001_2: 647173573
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
