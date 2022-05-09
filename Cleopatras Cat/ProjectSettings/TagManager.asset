@@ -8,6 +8,7 @@ TagManager:
   - PlayerStart
   - InstantDeath
   - MusicController
+  - LevelExit
   layers:
   - Default
   - TransparentFX
