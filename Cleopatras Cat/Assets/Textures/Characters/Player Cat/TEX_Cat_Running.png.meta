@@ -149,7 +149,7 @@ TextureImporter:
       name: TEX_Cat_Running_2
       rect:
         serializedVersion: 2
-        x: 128
+        x: 129
         y: 0
         width: 64
         height: 64
@@ -170,7 +170,7 @@ TextureImporter:
       name: TEX_Cat_Running_3
       rect:
         serializedVersion: 2
-        x: 192
+        x: 193
         y: 0
         width: 64
         height: 64

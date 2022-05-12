@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: a2830ea6c50c20e40b5dab1b31b5d671
+guid: 5f1692c872ffcdc4982546d213173d2d
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -104,127 +104,85 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: TEX_Cat_Pull_Up_Test_001_0
+      name: TEX_Cat_IntoFall_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 128
-        height: 128
+        width: 64
+        height: 64
       alignment: 9
-      pivot: {x: 0.58, y: 0.265}
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b83aa51d2dd4a4a4f9478428e3c440b4
-      internalID: -1919757232
+      spriteID: 7c6f5031b1647254d84b3b014201a263
+      internalID: -35714547
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TEX_Cat_Pull_Up_Test_001_1
+      name: TEX_Cat_IntoFall_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb9eb7cf466d96f4080b270a839cee19
+      internalID: -613830697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_Cat_IntoFall_2
       rect:
         serializedVersion: 2
         x: 128
         y: 0
-        width: 128
-        height: 128
+        width: 64
+        height: 64
       alignment: 9
-      pivot: {x: 0.58, y: 0.265}
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ba53e13f799a17b4489bbafd82d87a43
-      internalID: 1018958596
+      spriteID: d765735e36e2b6d43b53f4e553cfbd95
+      internalID: -1732980872
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TEX_Cat_Pull_Up_Test_001_2
+      name: TEX_Cat_IntoFall_3
       rect:
         serializedVersion: 2
-        x: 256
+        x: 192
         y: 0
-        width: 128
-        height: 128
+        width: 64
+        height: 64
       alignment: 9
-      pivot: {x: 0.58, y: 0.265}
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 57fbab7d0e5f525499a8033d177ada9a
-      internalID: -1690532091
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TEX_Cat_Pull_Up_Test_001_3
-      rect:
-        serializedVersion: 2
-        x: 384
-        y: 0
-        width: 128
-        height: 128
-      alignment: 9
-      pivot: {x: 0.58, y: 0.265}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 67177295201b29f418170cb6131bf1df
-      internalID: 1942742360
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TEX_Cat_Pull_Up_Test_001_4
-      rect:
-        serializedVersion: 2
-        x: 512
-        y: 0
-        width: 128
-        height: 128
-      alignment: 9
-      pivot: {x: 0.58, y: 0.265}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a5f1d350d440b9e49b2bc70786de69f8
-      internalID: 663553034
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TEX_Cat_Pull_Up_Test_001_5
-      rect:
-        serializedVersion: 2
-        x: 640
-        y: 0
-        width: 128
-        height: 128
-      alignment: 9
-      pivot: {x: 0.58, y: 0.265}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3d7750b9d5b547d439b5d7d771800c96
-      internalID: 388351914
+      spriteID: 5893d513ffd41d947ab74354494ea476
+      internalID: -631707623
       vertices: []
       indices: 
       edges: []
@@ -240,12 +198,10 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      TEX_Cat_Pull_Up_Test_001_0: -1919757232
-      TEX_Cat_Pull_Up_Test_001_1: 1018958596
-      TEX_Cat_Pull_Up_Test_001_3: 1942742360
-      TEX_Cat_Pull_Up_Test_001_4: 663553034
-      TEX_Cat_Pull_Up_Test_001_5: 388351914
-      TEX_Cat_Pull_Up_Test_001_2: -1690532091
+      TEX_Cat_IntoFall_1: -613830697
+      TEX_Cat_IntoFall_3: -631707623
+      TEX_Cat_IntoFall_0: -35714547
+      TEX_Cat_IntoFall_2: -1732980872
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
