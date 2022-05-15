@@ -9,6 +9,7 @@ TagManager:
   - InstantDeath
   - MusicController
   - LevelExit
+  - RunSfx
   layers:
   - Default
   - TransparentFX

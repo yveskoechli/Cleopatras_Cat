@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 221674262091127999}
   - component: {fileID: 4251715053569528796}
   m_Layer: 0
-  m_Name: JumpSfx
+  m_Name: ExitDoorSfx
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -44,9 +44,9 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: c7efcc4544e10c64c9549e1caa808b9e, type: 3}
+  m_audioClip: {fileID: 8300000, guid: 8f56aa8657208c0488f1e6e8e98d9316, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 0.25
+  m_Volume: 0.5
   m_Pitch: 1
   Loop: 0
   Mute: 0
