@@ -10,11 +10,12 @@ TagManager:
   - MusicController
   - LevelExit
   - RunSfx
+  - Enemy
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Player
   - Water
   - UI
   - Walkable
