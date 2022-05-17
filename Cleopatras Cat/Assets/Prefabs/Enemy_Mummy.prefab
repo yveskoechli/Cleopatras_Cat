@@ -16,7 +16,7 @@ GameObject:
   - component: {fileID: 2867028614108517017}
   - component: {fileID: 2867028614108517094}
   - component: {fileID: 2867028614108517095}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Enemy_Mummy
   m_TagString: InstantDeath
   m_Icon: {fileID: 0}
@@ -124,10 +124,10 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 2}
+  m_Offset: {x: 0, y: 1.873879}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.01}
     oldSize: {x: 4, y: 4}
     newSize: {x: 3, y: 4}
     adaptiveTilingThreshold: 0.5
@@ -135,7 +135,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 1, y: 4}
+  m_Size: {x: 1, y: 3.747758}
   m_EdgeRadius: 0
 --- !u!61 &2867028614108517018
 BoxCollider2D:
@@ -153,7 +153,7 @@ BoxCollider2D:
   m_Offset: {x: 0, y: 2}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.01}
     oldSize: {x: 4, y: 4}
     newSize: {x: 3, y: 4}
     adaptiveTilingThreshold: 0.5
@@ -205,6 +205,7 @@ MonoBehaviour:
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"HeadCheckOffset","value":{"x":0.0,"y":4.0,"$type":"UnityEngine.Vector2"},"typeHandle":{"Identification":"UnityEngine.Vector2,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"GroundLayer","value":{"value":64,"$type":"UnityEngine.LayerMask"},"typeHandle":{"Identification":"UnityEngine.LayerMask,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"PlayerLayer","value":{"value":8,"$type":"UnityEngine.LayerMask"},"typeHandle":{"Identification":"UnityEngine.LayerMask,
+      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"EnemyLayer","value":{"value":128,"$type":"UnityEngine.LayerMask"},"typeHandle":{"Identification":"UnityEngine.LayerMask,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences: []
 --- !u!114 &2867028614108517095
