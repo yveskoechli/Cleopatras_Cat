@@ -16,7 +16,7 @@ GameObject:
   - component: {fileID: 2867028614108517017}
   - component: {fileID: 2867028614108517094}
   - component: {fileID: 2867028614108517095}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Enemy_Scorpio
   m_TagString: InstantDeath
   m_Icon: {fileID: 0}
