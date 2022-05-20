@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 221674262091127999}
   - component: {fileID: 4251715053569528796}
   m_Layer: 0
-  m_Name: RuneSfx
+  m_Name: DeathSfx
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -44,9 +44,9 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 55cc5055b4ddc604298aed933c6fc456, type: 3}
+  m_audioClip: {fileID: 8300000, guid: e95135c9c06ddb745b48f6d2f9e1b973, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 0.5
+  m_Volume: 0.25
   m_Pitch: 1
   Loop: 0
   Mute: 0

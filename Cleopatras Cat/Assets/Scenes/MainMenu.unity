@@ -515,9 +515,9 @@ RectTransform:
   m_Father: {fileID: 965049309}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 660, y: -240}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 300, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &110542706
@@ -1761,10 +1761,10 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Mauzende Katzenstimme: \"Mann habe ich lange geschlafen, wo bin ich?\"\r\n\n\n\"Und
-    wieso liegt hier neben mir mein Frauchen so sch\xF6n einbalsamiert?\"\n\n\n\"Ach
-    ja, da war doch was....\"\n\n\n\"Ou man, jetzt hab ich aber einen riesen Kohldampf!
-    Wo ist den hier der Ausgang? Brauche dringend was zu Futtern!\n\n"
+  m_text: "Meowing cat voice....\r\n\n\r\n\"Man have I slept long, where am I?\"\r\n\r\n\r\n\"And
+    why is my mistress lying here peacefully embalmed asleep next to me?\"\r\n\r\n\r\n\"Oh
+    yes, there was something....\"\r\n\r\n\r\n\"Anyway, I'm starving!\"\n\n\n\"Where
+    is the next exit here?\"\n\n\n\"I need something to eat as soon as possible!\"\r"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 6d8bbe6e1724e2940ab571b5e85a31a3, type: 2}
   m_sharedMaterial: {fileID: 2719357493577187409, guid: 6d8bbe6e1724e2940ab571b5e85a31a3, type: 2}
@@ -2120,7 +2120,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &965049309
 RectTransform:
   m_ObjectHideFlags: 0
@@ -2477,9 +2477,9 @@ RectTransform:
   m_Father: {fileID: 965049309}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 660, y: -40}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 300, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1106992430
@@ -3929,9 +3929,9 @@ RectTransform:
   m_Father: {fileID: 965049309}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 660, y: -140}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 300, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1773458574
@@ -4535,9 +4535,9 @@ RectTransform:
   m_Father: {fileID: 965049309}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 660, y: -440}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 300, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1928715498
@@ -4910,9 +4910,9 @@ RectTransform:
   m_Father: {fileID: 965049309}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 660, y: -340}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 300, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2090630733
