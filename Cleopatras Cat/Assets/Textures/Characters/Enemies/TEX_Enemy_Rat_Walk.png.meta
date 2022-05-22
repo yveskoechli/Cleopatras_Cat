@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 8a96a94084c60764c920826f1b305348
+guid: a84cd7458cbcffe4f81c310b98c58119
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -104,7 +104,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: TEX_Enemy_Mummy_Walk_0
+      name: TEX_Enemy_Rat_Walk_0
       rect:
         serializedVersion: 2
         x: 0
@@ -112,20 +112,20 @@ TextureImporter:
         width: 64
         height: 64
       alignment: 9
-      pivot: {x: 0.5, y: 0.015625}
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 07f18eaf1b08f3d448e55025dc8a36db
-      internalID: 437028920
+      spriteID: faec4fd55aea28c4fb4f54c7d21403f8
+      internalID: -1741196976
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TEX_Enemy_Mummy_Walk_1
+      name: TEX_Enemy_Rat_Walk_1
       rect:
         serializedVersion: 2
         x: 64
@@ -133,20 +133,20 @@ TextureImporter:
         width: 64
         height: 64
       alignment: 9
-      pivot: {x: 0.5, y: 0.015625}
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 96ca6076ea1d114468d3f740451c0fd5
-      internalID: 1975002417
+      spriteID: 1c892aebc025da44a9fa306ec49cdb98
+      internalID: 1376695719
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TEX_Enemy_Mummy_Walk_2
+      name: TEX_Enemy_Rat_Walk_2
       rect:
         serializedVersion: 2
         x: 128
@@ -154,20 +154,20 @@ TextureImporter:
         width: 64
         height: 64
       alignment: 9
-      pivot: {x: 0.5, y: 0.015625}
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 82d181d793f80724884ef8bc1074ac76
-      internalID: 106010480
+      spriteID: df57765d4fc2b194abe5e8a64198bd16
+      internalID: 9868995
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TEX_Enemy_Mummy_Walk_3
+      name: TEX_Enemy_Rat_Walk_3
       rect:
         serializedVersion: 2
         x: 192
@@ -175,14 +175,56 @@ TextureImporter:
         width: 64
         height: 64
       alignment: 9
-      pivot: {x: 0.5, y: 0.015625}
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 44781a33007bf8c4d8b648a7913a2965
-      internalID: -1654018868
+      spriteID: c53391e1923c530449333ebacfc2eff1
+      internalID: -172727891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_Enemy_Rat_Walk_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1606a62bc045d084bbff8ce627fa0f7b
+      internalID: 721617324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_Enemy_Rat_Walk_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b64a5e60ebe4f3429c6e7d8b888e044
+      internalID: 158489509
       vertices: []
       indices: 
       edges: []
@@ -198,10 +240,12 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      TEX_Enemy_Mummy_Walk_2: 106010480
-      TEX_Enemy_Mummy_Walk_3: -1654018868
-      TEX_Enemy_Mummy_Walk_0: 437028920
-      TEX_Enemy_Mummy_Walk_1: 1975002417
+      TEX_Enemy_Rat_Walk_2: 9868995
+      TEX_Enemy_Rat_Walk_1: 1376695719
+      TEX_Enemy_Rat_Walk_5: 158489509
+      TEX_Enemy_Rat_Walk_4: 721617324
+      TEX_Enemy_Rat_Walk_0: -1741196976
+      TEX_Enemy_Rat_Walk_3: -172727891
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
