@@ -2957,7 +2957,7 @@ MonoBehaviour:
   m_BlendStyleIndex: 0
   m_FalloffIntensity: 0.5
   m_Color: {r: 0.88461816, g: 0.8254717, b: 1, a: 1}
-  m_Intensity: 1
+  m_Intensity: 0.15
   m_LightVolumeIntensity: 1
   m_LightVolumeIntensityEnabled: 0
   m_ApplyToSortingLayers: 00000000437c60ec
@@ -7908,7 +7908,7 @@ MonoBehaviour:
     ModeOverride: 0
     LensShift: {x: 0, y: 0}
     GateFit: 2
-    m_SensorSize: {x: 1.3333334, y: 1}
+    m_SensorSize: {x: 1.7777778, y: 1}
   m_Transitions:
     m_BlendHint: 0
     m_InheritPosition: 0
@@ -93330,7 +93330,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6888274110247232892, guid: 0a485684ad9f18449a5f638ea2d1477c, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -52.9
+      value: -7.6500015
       objectReference: {fileID: 0}
     - target: {fileID: 6888274110247232892, guid: 0a485684ad9f18449a5f638ea2d1477c, type: 3}
       propertyPath: m_LocalPosition.y
