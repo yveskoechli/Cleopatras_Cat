@@ -1335,13 +1335,16 @@ MonoBehaviour:
       UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"OptionsButton","value":{"$content":9,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.UI.Button,
       UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"MainMenuButton","value":{"$content":10,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.UI.Button,
       UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"EventSystem","value":{"$content":11,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
-      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"CheckpointPositions","value":{"$content":[12,13,14,15],"$type":"System.Collections.Generic.List`1[[UnityEngine.Transform,
-      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"typeHandle":{"Identification":"System.Collections.Generic.List`1[[UnityEngine.Transform,
+      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"CheckpointPositions","value":{"$content":[12,13,14,15],"$type":"System.Collections.Generic.List`1[[UnityEngine.GameObject,
+      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"typeHandle":{"Identification":"System.Collections.Generic.List`1[[UnityEngine.GameObject,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]],
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"RelictList","value":{"$content":[16,17,18,19,20,21,22,23,24],"$type":"System.Collections.Generic.List`1[[UnityEngine.GameObject,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"typeHandle":{"Identification":"System.Collections.Generic.List`1[[UnityEngine.GameObject,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]],
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"RelictCollected","value":{"$content":[true,true,true,true,true,true,true,true,true],"$type":"System.Collections.Generic.List`1[[System.Boolean,
+      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"},"typeHandle":{"Identification":"System.Collections.Generic.List`1[[System.Boolean,
+      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]],
+      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"ActiveCheckpoint","value":{"$content":[false,false,false,false],"$type":"System.Collections.Generic.List`1[[System.Boolean,
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"},"typeHandle":{"Identification":"System.Collections.Generic.List`1[[System.Boolean,
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]],
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
@@ -1358,10 +1361,10 @@ MonoBehaviour:
     - {fileID: 1155665831}
     - {fileID: 1657794560}
     - {fileID: 1620228187}
-    - {fileID: 751299707}
-    - {fileID: 1612537556}
-    - {fileID: 1449972103}
-    - {fileID: 1287308630}
+    - {fileID: 751299708}
+    - {fileID: 1612537557}
+    - {fileID: 1449972104}
+    - {fileID: 1287308631}
     - {fileID: 138509327}
     - {fileID: 1836273289}
     - {fileID: 1606495360}
@@ -3917,6 +3920,11 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 2460928741813333939, guid: a281c3f3c497f6249a5258ac52c2d1b1, type: 3}
   m_PrefabInstance: {fileID: 751299706}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &751299708 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2460928741813333938, guid: a281c3f3c497f6249a5258ac52c2d1b1, type: 3}
+  m_PrefabInstance: {fileID: 751299706}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &838510929 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 6987481067501090658, guid: 59918d1bdb3fb33498a8fb0fd1181802, type: 3}
@@ -4849,6 +4857,37 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 2460928741813333939, guid: 41c90c100d1c97846bee1a37e15b5426, type: 3}
   m_PrefabInstance: {fileID: 1109578586}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1115391073
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1115391074}
+  m_Layer: 0
+  m_Name: GameObject
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1115391074
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1115391073}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 23.451149, y: 8.310889, z: -0.110358074}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 10
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1132561629
 GameObject:
   m_ObjectHideFlags: 0
