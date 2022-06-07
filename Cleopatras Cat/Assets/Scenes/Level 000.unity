@@ -1441,10 +1441,10 @@ RectTransform:
   m_Father: {fileID: 1888150033}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 0}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 63.005, y: -61.455}
+  m_SizeDelta: {x: 126.01, y: 122.91}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &248184610
 CanvasRenderer:
@@ -3402,7 +3402,7 @@ RectTransform:
   m_AnchorMin: {x: 1, y: 1}
   m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: -50, y: -50}
-  m_SizeDelta: {x: 0, y: 0}
+  m_SizeDelta: {x: 400, y: 200}
   m_Pivot: {x: 1, y: 1}
 --- !u!114 &538274611
 MonoBehaviour:
@@ -4983,7 +4983,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2460928741813333939, guid: a281c3f3c497f6249a5258ac52c2d1b1, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -8.07458
+      value: -8.88708
       objectReference: {fileID: 0}
     - target: {fileID: 2460928741813333939, guid: a281c3f3c497f6249a5258ac52c2d1b1, type: 3}
       propertyPath: m_LocalPosition.z
@@ -7560,7 +7560,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2460928741813333939, guid: a281c3f3c497f6249a5258ac52c2d1b1, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 18.11292
+      value: 17.30042
       objectReference: {fileID: 0}
     - target: {fileID: 2460928741813333939, guid: a281c3f3c497f6249a5258ac52c2d1b1, type: 3}
       propertyPath: m_LocalPosition.z
@@ -7653,7 +7653,7 @@ BoxCollider2D:
   m_Offset: {x: 0, y: 0}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0.5, y: 0.5}
+    pivot: {x: 0.5, y: 0}
     oldSize: {x: 1, y: 2}
     newSize: {x: 1, y: 2}
     adaptiveTilingThreshold: 0.5
@@ -8263,7 +8263,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2460928741813333939, guid: a281c3f3c497f6249a5258ac52c2d1b1, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.75
+      value: -1.5625
       objectReference: {fileID: 0}
     - target: {fileID: 2460928741813333939, guid: a281c3f3c497f6249a5258ac52c2d1b1, type: 3}
       propertyPath: m_LocalPosition.z
@@ -8356,7 +8356,7 @@ BoxCollider2D:
   m_Offset: {x: 0, y: 0}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0.5, y: 0.5}
+    pivot: {x: 0.5, y: 0}
     oldSize: {x: 1, y: 2}
     newSize: {x: 1, y: 2}
     adaptiveTilingThreshold: 0.5
@@ -8461,10 +8461,10 @@ RectTransform:
   m_Father: {fileID: 538274610}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 0}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 200, y: -100}
+  m_SizeDelta: {x: 400, y: 200}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1471947482
 MonoBehaviour:
@@ -8717,7 +8717,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1512561737
 RectTransform:
   m_ObjectHideFlags: 0
@@ -9394,7 +9394,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2460928741813333939, guid: a281c3f3c497f6249a5258ac52c2d1b1, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -6.07458
+      value: -6.88708
       objectReference: {fileID: 0}
     - target: {fileID: 2460928741813333939, guid: a281c3f3c497f6249a5258ac52c2d1b1, type: 3}
       propertyPath: m_LocalPosition.z
@@ -9487,7 +9487,7 @@ BoxCollider2D:
   m_Offset: {x: 0, y: 0}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0.5, y: 0.5}
+    pivot: {x: 0.5, y: 0}
     oldSize: {x: 1, y: 2}
     newSize: {x: 1, y: 2}
     adaptiveTilingThreshold: 0.5
@@ -15054,7 +15054,7 @@ RectTransform:
   m_AnchorMin: {x: 1, y: 1}
   m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: -50, y: -80}
-  m_SizeDelta: {x: 0, y: 0}
+  m_SizeDelta: {x: 126.01, y: 122.91}
   m_Pivot: {x: 1, y: 1}
 --- !u!114 &1888150034
 MonoBehaviour:
