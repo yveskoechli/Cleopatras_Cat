@@ -16,7 +16,6 @@ GameObject:
   - component: {fileID: 1683493532690150938}
   - component: {fileID: 1683493532690150937}
   - component: {fileID: 1683493532690150936}
-  - component: {fileID: 1821200250401806337}
   m_Layer: 3
   m_Name: Player Cat
   m_TagString: Player
@@ -244,14 +243,6 @@ MonoBehaviour:
     _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
     _objectReferences:
     - {fileID: 11400000, guid: ade3989cdac116a4f80bfc2a22ebc28a, type: 2}
---- !u!81 &1821200250401806337
-AudioListener:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1683493532690150943}
-  m_Enabled: 1
 --- !u!1 &1683493533384586469
 GameObject:
   m_ObjectHideFlags: 0
