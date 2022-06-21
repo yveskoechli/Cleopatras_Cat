@@ -11,6 +11,7 @@ TagManager:
   - LevelExit
   - RunSfx
   - Enemy
+  - MovingPlatform
   layers:
   - Default
   - TransparentFX
