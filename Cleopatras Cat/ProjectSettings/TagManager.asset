@@ -12,6 +12,7 @@ TagManager:
   - RunSfx
   - Enemy
   - MovingPlatform
+  - CameraBound
   layers:
   - Default
   - TransparentFX
