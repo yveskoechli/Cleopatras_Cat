@@ -13,6 +13,7 @@ TagManager:
   - Enemy
   - MovingPlatform
   - CameraBound
+  - EnemyHead
   layers:
   - Default
   - TransparentFX
