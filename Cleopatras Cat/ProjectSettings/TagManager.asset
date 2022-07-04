@@ -16,6 +16,7 @@ TagManager:
   - EnemyHead
   - PlayerFoot
   - PlayerAttack
+  - EndbossHead
   layers:
   - Default
   - TransparentFX

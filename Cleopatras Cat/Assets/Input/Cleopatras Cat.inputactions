@@ -143,6 +143,17 @@
                 },
                 {
                     "name": "",
+                    "id": "242ae552-7b1d-4b77-8847-232c192dee79",
+                    "path": "<Gamepad>/leftTrigger",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Gamepad",
+                    "action": "SpeedUp",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
                     "id": "1ba03a48-d696-47ae-be96-313ec8d9d39b",
                     "path": "<Keyboard>/s",
                     "interactions": "",
@@ -165,6 +176,28 @@
                 },
                 {
                     "name": "",
+                    "id": "95d59b8b-0b5f-401b-85c0-ed6fe74dab23",
+                    "path": "<Gamepad>/dpad/down",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Gamepad",
+                    "action": "Crouch",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "481c7bef-7055-4ae3-a426-e0556931f2bb",
+                    "path": "<Gamepad>/leftStick/down",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Gamepad",
+                    "action": "Crouch",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
                     "id": "9039d170-8b8a-47f5-8cf8-d16aad7639cd",
                     "path": "<Keyboard>/w",
                     "interactions": "",
@@ -178,6 +211,17 @@
                     "name": "",
                     "id": "b39e94da-1240-4ca2-86ad-0f503e641cc8",
                     "path": "<Gamepad>/dpad/up",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Gamepad",
+                    "action": "Climb",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "cdecdddb-94bf-4d36-b1f6-b40547c237a3",
+                    "path": "<Gamepad>/leftStick/up",
                     "interactions": "",
                     "processors": "",
                     "groups": "Gamepad",
