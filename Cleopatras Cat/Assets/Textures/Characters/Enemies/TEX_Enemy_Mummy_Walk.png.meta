@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 8a96a94084c60764c920826f1b305348
+guid: 992e8beda467d434ca3a7228e93e35a3
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -111,15 +111,15 @@ TextureImporter:
         y: 0
         width: 64
         height: 64
-      alignment: 9
-      pivot: {x: 0.5, y: 0.015625}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 07f18eaf1b08f3d448e55025dc8a36db
-      internalID: 437028920
+      spriteID: 9b85a8c304310fe468702adbeef11113
+      internalID: 1673241941
       vertices: []
       indices: 
       edges: []
@@ -132,15 +132,15 @@ TextureImporter:
         y: 0
         width: 64
         height: 64
-      alignment: 9
-      pivot: {x: 0.5, y: 0.015625}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 96ca6076ea1d114468d3f740451c0fd5
-      internalID: 1975002417
+      spriteID: a70d1dd0821015c4c83db0544ff52731
+      internalID: -1324049230
       vertices: []
       indices: 
       edges: []
@@ -153,15 +153,15 @@ TextureImporter:
         y: 0
         width: 64
         height: 64
-      alignment: 9
-      pivot: {x: 0.5, y: 0.015625}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 82d181d793f80724884ef8bc1074ac76
-      internalID: 106010480
+      spriteID: 5aafc490912a7e64d9abae2c025c0618
+      internalID: 1611576801
       vertices: []
       indices: 
       edges: []
@@ -174,15 +174,99 @@ TextureImporter:
         y: 0
         width: 64
         height: 64
-      alignment: 9
-      pivot: {x: 0.5, y: 0.015625}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 44781a33007bf8c4d8b648a7913a2965
-      internalID: -1654018868
+      spriteID: 8b94c2869b7ab1342bbf243f9352979f
+      internalID: 1206908010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_Enemy_Mummy_Walk_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c86017ec9eb6de49a03c030119563c1
+      internalID: -528926577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_Enemy_Mummy_Walk_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c0dde0cc7f808246aedf9806faa6523
+      internalID: -602367604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_Enemy_Mummy_Walk_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9b01dcf466a51e45ad4cfb082aa500a
+      internalID: 1783289211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_Enemy_Mummy_Walk_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e012c7761e5a90048ba4de167155cfb0
+      internalID: 951147168
       vertices: []
       indices: 
       edges: []
@@ -198,10 +282,14 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      TEX_Enemy_Mummy_Walk_2: 106010480
-      TEX_Enemy_Mummy_Walk_3: -1654018868
-      TEX_Enemy_Mummy_Walk_0: 437028920
-      TEX_Enemy_Mummy_Walk_1: 1975002417
+      TEX_Enemy_Mummy_Walk_2: 1611576801
+      TEX_Enemy_Mummy_Walk_4: -528926577
+      TEX_Enemy_Mummy_Walk_3: 1206908010
+      TEX_Enemy_Mummy_Walk_5: -602367604
+      TEX_Enemy_Mummy_Walk_0: 1673241941
+      TEX_Enemy_Mummy_Walk_1: -1324049230
+      TEX_Enemy_Mummy_Walk_7: 951147168
+      TEX_Enemy_Mummy_Walk_6: 1783289211
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
