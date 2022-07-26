@@ -221,7 +221,7 @@
                 {
                     "name": "",
                     "id": "cdecdddb-94bf-4d36-b1f6-b40547c237a3",
-                    "path": "<Gamepad>/leftStick/up",
+                    "path": "<Gamepad>/buttonSouth",
                     "interactions": "",
                     "processors": "",
                     "groups": "Gamepad",
