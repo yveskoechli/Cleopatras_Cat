@@ -196,17 +196,6 @@
                 },
                 {
                     "name": "",
-                    "id": "481c7bef-7055-4ae3-a426-e0556931f2bb",
-                    "path": "<Gamepad>/leftStick/down",
-                    "interactions": "",
-                    "processors": "",
-                    "groups": "Gamepad",
-                    "action": "Crouch",
-                    "isComposite": false,
-                    "isPartOfComposite": false
-                },
-                {
-                    "name": "",
                     "id": "9039d170-8b8a-47f5-8cf8-d16aad7639cd",
                     "path": "<Keyboard>/w",
                     "interactions": "",
