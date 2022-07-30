@@ -14,7 +14,7 @@ PlayerSettings:
   accelerometerFrequency: 60
   companyName: Cursed Bytes
   productName: Cleopatras Cat
-  defaultCursor: {fileID: 0}
+  defaultCursor: {fileID: 2800000, guid: ff6b9905d078b8f4c927211bfc0a3c14, type: 3}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
   m_ShowUnitySplashScreen: 1
@@ -145,6 +145,7 @@ PlayerSettings:
   - {fileID: 0}
   - {fileID: 0}
   - {fileID: 0}
+  - {fileID: 11400000, guid: 87265d3fb47ec1f4cadbf8b8fcc7d6e1, type: 2}
   metroInputSource: 0
   wsaTransparentSwapchain: 0
   m_HolographicPauseOnTrackingLoss: 1
@@ -276,7 +277,14 @@ PlayerSettings:
   AndroidMinifyDebug: 0
   AndroidValidateAppBundleSize: 1
   AndroidAppBundleSizeToValidate: 150
-  m_BuildTargetIcons: []
+  m_BuildTargetIcons:
+  - m_BuildTarget: 
+    m_Icons:
+    - serializedVersion: 2
+      m_Icon: {fileID: 2800000, guid: f8580b5f4ff176541bef7c38db2cb1f1, type: 3}
+      m_Width: 128
+      m_Height: 128
+      m_Kind: 0
   m_BuildTargetPlatformIcons: []
   m_BuildTargetBatching: []
   m_BuildTargetGraphicsJobs: []
