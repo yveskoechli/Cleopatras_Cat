@@ -911,8 +911,6 @@ MonoBehaviour:
     Yves Koechli
 
 
-    ____________________________________________
-
 
 
     Sound-effects
@@ -921,22 +919,17 @@ MonoBehaviour:
     Sounds
 
 
-    ____________________________________________
 
 
     Music
 
-    by
-    Tyler Cunningham
-
-
-    ____________________________________________
+    by Tyler Cunningham
 
 
 
 
-    HTK
-    Academy
+
+    HTK Academy
 
 '
   m_isRightToLeft: 0
@@ -1851,6 +1844,7 @@ GameObject:
   - component: {fileID: 297937867}
   - component: {fileID: 297937866}
   - component: {fileID: 297937868}
+  - component: {fileID: 297937869}
   m_Layer: 0
   m_Name: Music Controller
   m_TagString: MusicController
@@ -2065,6 +2059,26 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!95 &297937869
+Animator:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 297937865}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 3fd98c2e2c84c7444b09cf5f9c8aab65, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &330052202
 GameObject:
   m_ObjectHideFlags: 0
@@ -9942,7 +9956,8 @@ MonoBehaviour:
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"IntroText3","value":{"$content":6,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"IntroText4","value":{"$content":7,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"AudioSource","value":{"$content":8,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.AudioSource,
-      UnityEngine.AudioModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      UnityEngine.AudioModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"MusicController","value":{"$content":9,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.Animator,
+      UnityEngine.AnimationModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences:
     - {fileID: 1028827435}
     - {fileID: 1541956876}
@@ -9953,6 +9968,7 @@ MonoBehaviour:
     - {fileID: 1203200922}
     - {fileID: 1097794918}
     - {fileID: 297937868}
+    - {fileID: 297937869}
 --- !u!4 &2136048218
 Transform:
   m_ObjectHideFlags: 0
